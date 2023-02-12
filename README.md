@@ -1,6 +1,5 @@
-# bsg-pioneer
+# bsg-pioneer - GER YANG
 A.I. Pioneer
-
 # OpenAI Template
 This project is a starter kit for using OpenAI and its API layer. It is baked in with Authentication, Session Management, Token Tracking, as well as Billing (currently disabled).
 
