@@ -124,19 +124,19 @@
 
 ---
 # e1-ecom
-<details open><summary>e1-ecom</summary><blockquote>
+<details open><summary>e-commerce</summary><blockquote>
   <details><summary>versions</summary><blockquote>
-    v230418
-    v230504
-    v230505
+    1.v230418
+    1.v230504
+    1.v230505
   </blockquote></details>
-  <details open><summary>e-commerce</summary><blockquote>
-    :smile:
-    amazon 
-    apple-pay 
-    google-pay 
-    paypal 
-    stripe 
+  <details open><summary>retail</summary><blockquote>
+    1.:smile:
+    1.amazon 
+    1.apple-pay 
+    1.google-pay 
+    1.paypal 
+    1.stripe 
   </blockquote></details>
 </blockquote></details>
 
