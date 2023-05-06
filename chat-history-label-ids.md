@@ -1,5 +1,4 @@
-```yaml
----
+
 a1-auto:
   versions:
     v230418: null
@@ -479,4 +478,4 @@ t1-tech:
       macos: null
       solaris: null
 ---
-```
+
