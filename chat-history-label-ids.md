@@ -130,7 +130,7 @@
     <br>v230504
     <br>v230505
   </blockquote></details>
-  <details open><summary>retail</summary><blockquote>
+  <details><summary>retail</summary><blockquote>
     <br>smile:
     <br>amazon 
     <br>apple-pay 
