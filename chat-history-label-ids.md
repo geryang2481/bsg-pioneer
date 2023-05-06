@@ -1,6 +1,5 @@
----
 ```yaml
-
+---
 a1-auto:
   versions:
     v230418: null
@@ -479,10 +478,5 @@ t1-tech:
       linux: null
       macos: null
       solaris: null
-
----
-null
 ---
 ```
-
-END
