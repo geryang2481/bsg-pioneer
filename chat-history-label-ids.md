@@ -124,16 +124,21 @@
 
 ---
 # e1-ecom
-  versions
-    v230418 null
-    v230504 null
-    v230505 null
-  e-commerce
-    amazon null
-    apple-pay null
-    google-pay null
-    paypal null
-    stripe null
+<details open><summary>e1-ecom</summary><blockquote>
+  <details><summary>versions</summary><blockquote>
+    v230418
+    v230504
+    v230505
+  </blockquote></details>
+  <details open><summary>e-commerce</summary><blockquote>
+    :smile:
+    amazon 
+    apple-pay 
+    google-pay 
+    paypal 
+    stripe 
+  </blockquote></details>
+</blockquote></details>
 
 ---
 # g1-ger
