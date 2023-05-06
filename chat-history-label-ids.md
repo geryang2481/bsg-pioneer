@@ -1,7 +1,6 @@
 ---
 ```yaml
----
----
+
 a1-auto:
   versions:
     v230418: null
